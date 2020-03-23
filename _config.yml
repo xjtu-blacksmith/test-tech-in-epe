@@ -23,8 +23,8 @@ links:
 
 ui:
     header:
-        color1: "#CC3536"
-        color2: "#E9DB39"
+        color1: "#F78E6F"
+        color2: "#E36348"
         trianglify: true
 
 # Build settings
