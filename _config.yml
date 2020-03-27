@@ -1,6 +1,6 @@
 # name of the software
 name: 热能与动力工程测试技术
-start_url: /intro
+start_url: intro
 
 project:
     version: 2020 Spring
