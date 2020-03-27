@@ -2,6 +2,7 @@
 title: 力与压力测量
 layout: page
 permalink: /chp2
+order: 2
 ---
 
 - 力与压力关系：力 / 作用面积 = 压力（压强）

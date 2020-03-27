@@ -2,6 +2,7 @@
 layout: page
 title: 流量与流速测量
 permalink: /chp7
+order: 7
 ---
 
 # 流速测量

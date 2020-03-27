@@ -2,6 +2,7 @@
 layout: page
 title: 温度测量
 permalink: /chp4
+order: 4
 ---
 
 # 基本概念
