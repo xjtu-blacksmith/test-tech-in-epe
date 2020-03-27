@@ -1,6 +1,6 @@
 # name of the software
 name: 热能与动力工程测试技术
-start_url: /chp1
+start_url: /intro
 
 project:
     version: 2020 Spring
@@ -12,14 +12,6 @@ license:
 
     docs: CC BY-SA 4.0
     docs_url: https://creativecommons.org/licenses/by-sa/4.0/
-
-links:
-    header:
-      - title: GitHub
-        url: https://github.com/allejo/jekyll-docs-theme
-    footer:
-      - title: GitHub
-        url: https://github.com/allejo/jekyll-docs-theme
 
 ui:
     header:
