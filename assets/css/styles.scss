@@ -92,4 +92,10 @@ img {
       margin-top: 1ex;
     }
   }
+  blockquote {
+    &[class^="bg-"] {
+      border: unset;
+      font-size: 0.9em;
+    }
+  }
 }
