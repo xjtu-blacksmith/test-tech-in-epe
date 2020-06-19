@@ -90,6 +90,9 @@ img {
       text-indent: 2em;
       margin-top: 1ex;
     }
+    dd + dt {
+        margin-top: 2ex;
+    }
   }
   blockquote {
     &[class^="bg-"] {
