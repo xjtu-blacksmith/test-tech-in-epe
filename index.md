@@ -11,7 +11,7 @@ title:
 
 # 概述
 
-课程教材：[《热能与动力机械测试技术》](https://item.jd.com/10299803.html)
+课程教材：[《热能与动力机械测试技术》](https://book.douban.com/subject/2107890/)
 
 ![index-2020-04-07-11-17-30](http://img.xjtu-blacksmith.cn/index-2020-04-07-11-17-30)
 
